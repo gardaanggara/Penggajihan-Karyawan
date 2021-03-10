@@ -90,7 +90,7 @@
 	</div>
 	<script src="{{url('js/jquery.min.js')}}" ></script>
     <!-- ini untuk bootstrap -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.2.0/js/tether.min.js" ></script>
+    <script src="{{url('js/tether.min.js')}}s" ></script>
     <script src="{{url('js/bootstrap.min.js')}}"></script>
     <!-- end bootstrap -->
 
